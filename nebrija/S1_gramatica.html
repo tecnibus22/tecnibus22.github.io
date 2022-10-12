@@ -1,0 +1,69 @@
+<!---https://cssgrid-generator.netlify.app/-->
+
+<style>
+div{
+    border: solid 0px black;
+    text-align: center;
+    margin: auto;
+}
+.parent {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 1 / 1 / 2 / 3; }
+.div2 { grid-area: 2 / 1 / 3 / 2; }
+.div3 { grid-area: 2 / 2 / 3 / 3; }
+.div4 { grid-area: 3 / 1 / 4 / 2; }
+.div5 { grid-area: 3 / 2 / 4 / 3; }
+</style>
+<link rel="stylesheet" href="css/progres-bar.css">
+
+<div class="parent">
+    <div class="div1">
+
+<div class="mediPlayer" style="background-image: url('imagenes/circleNums/1.svg'); background-repeat: no-repeat;">
+    <audio id="1" class="listen" preload="none" data-size="100" src="S1_Gramatica/audios/Gramatica0.mp3"></audio>
+</div>
+
+        
+    </div>
+    <div class="div2">
+
+<div class="mediPlayer" style="background-image: url('imagenes/circleNums/11.svg'); background-repeat: no-repeat;">
+    <audio id="11" class="listen" preload="none" data-size="80" src="S1_Gramatica/audios/Gramatica1M.mp3"></audio>
+</div>
+        
+
+    </div>
+    <div class="div3"> 
+
+<div class="mediPlayer" style="background-image: url('imagenes/circleNums/12.svg'); background-repeat: no-repeat;">
+    <audio id="12" class="listen" preload="none" data-size="80" src="S1_Gramatica/audios/Gramatica2M.mp3"></audio>
+</div>
+
+    </div>
+    <div class="div4">
+
+<div class="mediPlayer" style="background-image: url('imagenes/circleNums/13.svg'); background-repeat: no-repeat;">
+    <audio id="13" class="listen" preload="none" data-size="80" src="S1_Gramatica/audios/Gramatica3M.mp3"></audio>
+</div>
+
+    </div>
+    <div class="div5">
+
+<div class="mediPlayer" style="background-image: url('imagenes/circleNums/14.svg'); background-repeat: no-repeat;">
+    <audio id="14" class="listen" preload="none" data-size="80" src="S1_Gramatica/audios/Gramatica4M.mp3"></audio>
+</div>
+
+    </div>
+</div> 
+
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/player.js"></script>
+<script>
+    $(document).ready(function () {$('.mediPlayer').mediaPlayer();});
+</script>

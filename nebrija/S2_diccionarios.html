@@ -1,0 +1,62 @@
+<!---https://cssgrid-generator.netlify.app/-->
+
+<style>
+.parent {
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 1 / 3 / 2 / 5; }
+.div2 { grid-area: 2 / 1 / 3 / 3; }
+.div3 { grid-area: 2 / 3 / 3 / 5; }
+.div4 { grid-area: 2 / 5 / 3 / 7; }
+.div5 { grid-area: 3 / 2 / 4 / 4; }
+.div6 { grid-area: 3 / 4 / 4 / 6; }
+
+</style>
+<link rel="stylesheet" href="css/progres-bar.css">
+
+<div class="parent">
+    <div class="div1">
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/2.svg'); background-repeat: no-repeat;">
+            <audio id="2" class="listen" preload="none" data-size="90" src="S2_Diccionarios/audios/Diccionarios0.mp3"></audio>
+        </div>
+    </div>
+    <div class="div2">
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/22.svg'); background-repeat: no-repeat;">
+            <audio id="22" class="listen" preload="none" data-size="100" src="S2_Diccionarios/audios/Diccionarios1.mp3"></audio>
+        </div>
+    </div>
+    <div class="div3">
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/23.svg'); background-repeat: no-repeat;">
+            <audio id="23" class="listen" preload="none" data-size="100" src="S2_Diccionarios/audios/Diccionarios2.mp3"></audio>
+        </div>
+    </div>
+    <div class="div4">
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/24.svg'); background-repeat: no-repeat;">
+            <audio id="24" class="listen" preload="none" data-size="100" src="S2_Diccionarios/audios/Diccionarios3.mp3"></audio>
+        </div>
+    </div>
+    <div class="div5">
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/25.svg'); background-repeat: no-repeat;">
+            <audio id="25" class="listen" preload="none" data-size="100" src="mp3s/numbers/twenty_five.mp3"></audio>
+        </div>
+    </div>
+    <div class="div6">
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/26.svg'); background-repeat: no-repeat;">
+            <audio id="26" class="listen" preload="none" data-size="100" src="S2_Diccionarios/audios/Diccionarios5.mp3"></audio>
+        </div>
+    </div>
+    </div> 
+
+
+
+
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/player.js"></script>
+<script>
+    $(document).ready(function () {$('.mediPlayer').mediaPlayer();});
+</script>

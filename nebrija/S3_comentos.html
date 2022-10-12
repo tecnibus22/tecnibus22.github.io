@@ -1,0 +1,78 @@
+<!---https://cssgrid-generator.netlify.app/-->
+
+<style>
+.parent {
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 1 / 3 / 2 / 5; }
+.div2 { grid-area: 2 / 1 / 3 / 3; }
+.div3 { grid-area: 2 / 3 / 3 / 5; }
+.div4 { grid-area: 2 / 5 / 3 / 7; }
+.div5 { grid-area: 3 / 1 / 4 / 3; }
+.div6 { grid-area: 3 / 3 / 4 / 5; }
+.div7 { grid-area: 3 / 5 / 4 / 7; }
+
+
+</style>
+<link rel="stylesheet" href="css/progres-bar.css">
+
+<div class="parent">
+    <div class="div1"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/3.svg'); background-repeat: no-repeat;">
+            <audio id="3" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/Comentos0.mp3"></audio>
+        </div>
+    </div>
+    <div class="div2"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/31.svg'); background-repeat: no-repeat;">
+            <audio id="31" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/en_num_31.mp3"></audio>
+        </div>
+
+    </div>
+    <div class="div3"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/32.svg'); background-repeat: no-repeat;">
+            <audio id="32" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/en_num_32.mp3"></audio>
+        </div>
+
+    </div>
+    <div class="div4"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/33.svg'); background-repeat: no-repeat;">
+            <audio id="33" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/en_num_33.mp3"></audio>
+        </div>
+
+    </div>
+    <div class="div5"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/34.svg'); background-repeat: no-repeat;">
+            <audio id="34" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/en_num_34.mp3"></audio>
+        </div>
+
+    </div>
+    <div class="div6"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/35.svg'); background-repeat: no-repeat;">
+            <audio id="35" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/en_num_35.mp3"></audio>
+        </div>
+
+    </div>
+    <div class="div7"> 
+        <div class="mediPlayer" style="background-image: url('imagenes/circleNums/36.svg'); background-repeat: no-repeat;">
+            <audio id="36" class="listen" preload="none" data-size="90" src="S3_Comentos/audios/en_num_36.mp3"></audio>
+        </div>
+
+    </div>
+    </div> 
+
+
+
+
+
+
+
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/player.js"></script>
+<script>
+    $(document).ready(function () {$('.mediPlayer').mediaPlayer();});
+</script>
