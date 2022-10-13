@@ -1,0 +1,11 @@
+# Sala 6. Homenajes y Exposiciones.
+
+En 1513 el Cardenal Cisneros ordena la concesión de la cátedra de retórica de la Universidad de Alcalá a Nebrija, en las palabras de Cisneros lo hace, “Por pagarle lo que le debía España”.
+
+Resultó profético este tajante y justo reconocimiento del gran estadista de los Reyes Católicos, porque homenajeamos a Nebrija cada vez que en las escuelas se abre el libro de Lengua Castellana y su Literatura, cada vez que los universitarios cursan Español como Lengua Extranjera, cada vez que el enseñante de algún idioma moderno recurre a la base gramatical para explicar la fraseología foránea. 
+
+La impronta gramatical que tiene la enseñanza de idiomas en España tiene su causa en la influencia centenaria de aquellas Introductiones Latinae de Nebrija. Y aunque no se conozcan apenas testimonios expresos de la difusión de su emblemática obra de 1492, la Gramática sobre la lengua castellana se encuentra, al igual que sus vocabularios, en la estructura y método de los numerosos tratados de lenguas asiáticas y amerindias con los que las órdenes religiosas propagaron el cristianismo en los territorios ultramarinos de la entonces Monarquía Hispánica. 
+
+El más antiguo homenaje institucional tenía que ser el de su patria chica, que por iniciativa de los cofrades de la centenaria Hermandad de los Santos se instituyó en 1727 la “Cáthedra de Grammatica Elio Antonio de Lebrixa” para fomentar la enseñanza del latín en esa villa y en las poblaciones cercanas y publicar a su costa memoriales redactados por su profesorado en la lengua del Lacio. 
+
+Junto al primer ensayo impreso debido al académico de la Real de la Historia Juan Bautista Muñoz, se han añadido en esta sección de “Homenajes anteriores” los de las celebraciones del siglo pasado por el cuarto centenario de su muerte y quinto de su nacimiento, amén de los primeros repertorios bibliográficos, según los ejemplares que se custodian hoy día en el Fondo Antiguo de la Biblioteca de la Universidad de Sevilla, donde se integran los ejemplares que se exponen también  presencialmente en las vitrinas de la sala central de la Biblioteca de Humanidades de las Facultades de Filología y Geografía e Historia.

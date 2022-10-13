@@ -1,0 +1,13 @@
+# Sala 3. Ediciones y comentos.
+
+La producción de Antonio de Nebrija se enmarca cabalmente en las materias y competencias consideradas humanistas en su época: gramática, retórica, historia, poesía y filosofía moral. Podríamos decir que incluso las sobrepasa cuando consideramos sus obras gramaticales y lexicográficas, producidas para el ámbito de las tres facultades fundacionales de la universidad, el Derecho, la Medicina y la Teología. 
+
+Su tratamiento del texto sagrado es puramente filológico, postura que no le evitó la censura inquisitorial. 
+
+La filosofía y la ética como disciplina humanista no solo fueron abordadas por Nebrija en sus comentarios de autores clásicos y cristianos, sino en su radical actitud de “virtud y conocimiento” que siguió en todos los aspectos de su vida, y que quedará plasmada en el emblema tipográfico de la Y griega pitagórica, emblema de la imprenta granadina de sus hijos.
+
+Como poeta latino fue honrado con la coronación pública con ocasión del Epitalamio que declamó ante los reyes Isabel y Fernando en la catedral de Sevilla.
+
+Como consecuencia de su nombramiento por la reina Juana como cronista real, Nebrija adaptó a la lengua latina la Historia de los Reyes Católicos de Hernando del Pulgar, y también hizo la redacción en latín de la campaña de anexión del reino de Navarra en 1512, pero estas obras históricas se publicaron póstumamente.
+
+La Biblioteca de la Universidad de Sevilla custodia ejemplares relevantes de ediciones de los autores latinos comentados por Nebrija, a saber, Persio, Prudencio, Sedulio y Virgilio, La mayor parte de las ediciones representadas en estas vitrinas salieron de la imprenta granadina fundada por los hijos de Nebrija, Sancho y Sebastián, que se ocuparon de publicar las obras de su padre, entre ellas algunas que a su muerte habían quedado inéditas. Una parte sustancial de los volúmenes reunidos en esta sala la integran ediciones salidas de la imprenta que dos hijos del Maestro, Sancho y Sebastián, fundaron en Granada para publicar las obras paternas, valiéndose de los papeles de Nebrija que se custodiaban en la Universidad de Alcalá y del privilegio de impresión del que gozaban sus obras, privilegio que fue renovado en 1544 a favor de Sancho y, a su muerte, de su hijo Antonio. El taller tuvo su fase de mayor actividad entre 1534 y 1560. En ese tiempo, además de sacar a luz dos obras inéditas, publicaron buen número de títulos de carácter escolar o litúrgico que ya circulaban en ediciones previas. 
